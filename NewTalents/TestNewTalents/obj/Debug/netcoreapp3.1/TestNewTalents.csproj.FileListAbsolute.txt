@@ -1,0 +1,6 @@
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Projetos\tdd-testes-unitarios\NewTalents\TestNewTalents\obj\Debug\netcoreapp3.1\TestNewTalents.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Projetos\tdd-testes-unitarios\NewTalents\TestNewTalents\obj\Debug\netcoreapp3.1\TestNewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Projetos\tdd-testes-unitarios\NewTalents\TestNewTalents\obj\Debug\netcoreapp3.1\TestNewTalents.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Projetos\tdd-testes-unitarios\NewTalents\TestNewTalents\obj\Debug\netcoreapp3.1\TestNewTalents.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Projetos\tdd-testes-unitarios\NewTalents\TestNewTalents\obj\Debug\netcoreapp3.1\TestNewTalents.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Documents\_DIO\XP-Full-Stack-Developer\Projetos\tdd-testes-unitarios\NewTalents\TestNewTalents\obj\Debug\netcoreapp3.1\TestNewTalents.sourcelink.json
